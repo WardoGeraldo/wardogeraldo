@@ -64,15 +64,9 @@ I build across **iOS apps, web applications, and AI-powered solutions**, with an
 
 <div align="center">
 
-## 🚀 What I Work With
+### 💭
 
-| Area | Focus |
-| --- | --- |
-| 🍎 **iOS Development** | Swift, SwiftUI, SwiftData, Xcode |
-| 🌐 **Web Development** | Laravel, React, Next.js, Tailwind CSS |
-| 🤖 **AI & Machine Learning** | AI-powered applications, machine learning, data analysis |
-| 📊 **Data & Analytics** | Python, Tableau, Power BI, Looker Studio |
-| 🎨 **Design & Prototyping** | Figma |
+**Building, Learning and eager to learn how things work.**
 
 </div>
 
@@ -86,12 +80,3 @@ Check out my **pinned repositories** below to see what I've been building.
 
 </div>
 
----
-
-<div align="center">
-
-### 💭
-
-**Understanding how things work, not just making them work.**
-
-</div>
