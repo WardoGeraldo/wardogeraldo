@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-EDWARD%20GERALDO%20KRISTIAN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-geraldo-kristian/)
 [![Email](https://img.shields.io/badge/EMAIL-EDWARDG.KRISTIAN%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwardg.kristian@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-COMING%20SOON-555555?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wardogeraldo.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-WardoGeraldo-555555?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wardogeraldo.vercel.app/)
 
 </div>
 
